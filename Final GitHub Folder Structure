@@ -1,0 +1,9 @@
+SPOT_THE_SCAM/
+├── app.py
+├── spot_the_scam.py
+├── model_features.pkl
+├── scam_detector_model.pkl
+├── sample_data.csv
+├── requirements.txt
+├── README.md
+├── .gitignore
