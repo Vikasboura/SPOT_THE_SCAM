@@ -4,3 +4,4 @@ scikit-learn
 joblib
 matplotlib
 seaborn
+C:\Users\vikas\OneDrive\Desktop\SPOT_THE_SCAM
